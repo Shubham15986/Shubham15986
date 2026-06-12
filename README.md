@@ -151,10 +151,11 @@ NIT Durgapur's competitive programming community, responsible for growing techni
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_1329-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1602-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_1329-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubham15986)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1602-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shubham15986)
+[![LeetCode](https://img.shields.io/badge/LeetCode-shubham15986-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubham15986/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-shubham15986-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shubham15986)
+[![AtCoder](https://img.shields.io/badge/AtCoder-15989-gray?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Shubham15989)
 
 </div>
 
